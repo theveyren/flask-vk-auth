@@ -1,0 +1,10 @@
+<html>
+    <body>
+
+    {% if not vk %}
+    <a href="https://oauth.vk.com/authorize?client_id={{VKID}}&redirect_uri={{REDIRECTURI}}&display=mobile">Авторизоваться через VK</a>
+    {% else %}
+    <img src="{{photo}}" width="70"><a>Вы вошли как {{name}}! <a href="/logout">Выйти с аккаунта</a></a>
+    {% endif %}
+    </body>
+</html>
