@@ -19,6 +19,4 @@ https://cdn.discordapp.com/attachments/1006481428671889470/1062478683148914748/i
 
 Также установите Flask: `cmd` `>>` `pip install flask`
 
-По всем вопросам https://theveyren.tk/discord
-
 Когда вы уже поставите свой сайт на домен - не забудьте поменять домен сайта в коде и на dev.vk.com
