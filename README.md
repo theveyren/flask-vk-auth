@@ -11,11 +11,11 @@ VKSECRET = "12345678901234567890" # Секретный ключ, найти мо
 
 Создайте приложение как сайт и поменяйте домен сайта на `http://127.0.0.1:5000` (для теста конечно же):
 
-![dev.vk.com](https://media.discordapp.net/attachments/1039501743786037328/1039520653419741205/image.png?width=1077&height=676)](https://cdn.discordapp.com/attachments/1006481428671889470/1062478683148914748/image.png)
+https://cdn.discordapp.com/attachments/1006481428671889470/1062478683148914748/image.png
 
 Найти секретный ключ можно тут:
 
-![dev.vk.com](https://media.discordapp.net/attachments/1039501743786037328/1039520653721751633/image.png)](https://cdn.discordapp.com/attachments/1006481428671889470/1062478780754563182/image.png)
+https://cdn.discordapp.com/attachments/1006481428671889470/1062478683148914748/image.png
 
 Также установите Flask: `cmd` `>>` `pip install flask`
 
